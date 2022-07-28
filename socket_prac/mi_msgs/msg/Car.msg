@@ -1,0 +1,11 @@
+float32 PosX
+float32 PosY
+float32 heading
+int16 steering
+uint8 gear
+uint8 velocity
+float32 yaw_rate
+float32 yaw_rate_dt
+float32 velocity_dt
+uint8 feedback
+int8 left_right

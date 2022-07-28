@@ -1,0 +1,2 @@
+bool initialization
+bool location

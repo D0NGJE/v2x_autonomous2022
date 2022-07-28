@@ -1,0 +1,10 @@
+uint8 status
+float32 targetX1
+float32 targetX2
+float32 PosX
+float32 PosY
+float32 heading
+float32 targetPosX1
+float32 targetPosY1
+float32 targetPosX2
+float32 targetPosY2
